@@ -63,3 +63,6 @@ For a more in-depth guide on how the application works, as well as an explanatio
 You can access the documentation [here](https://intelligent-ai-platform-for-automobile-component-management.readthedocs.io/en/latest/).
 
 
+
+You can view the full presentation by:  [clicking here ](https://docs.google.com/presentation/d/179c-zVFqXlB1TWVTBPvPoonVG5rFvTlb/edit?rtpof=true&sd=true).
+
