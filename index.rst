@@ -61,7 +61,7 @@ link to github repository:  `link <https://github.com/imadmaalouf02/PFEMAALOUF>`
    :caption: Introduction
 
    Documentation/scripts/Scope/introduction.rst
-
+   Documentation/scripts/Scope/pipline.rst
 
 .. toctree::
    :maxdepth: 4
