@@ -31,3 +31,15 @@ Objective
             <li><strong>Automatically generated technical documents</strong> (e.g., technical specifications, validation reports, test sheets).</li>
             <li><strong>In-depth explanations</strong> for each requirement covering its function, importance, impact on performance, and testing strategy.</li>
         </ul>
+
+
+
+Global Project Architecture
+------------------------------------
+
+.. figure:: /Documentation/images/arch.PNG
+   :width: 100%
+   :alt: Alternative text for the image
+   :name: logo
+
+
