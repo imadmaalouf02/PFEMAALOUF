@@ -64,7 +64,7 @@ The overall process for implementing the project is structured in the following 
 .. raw:: html
 
     <p style="text-align: justify;"><span style="color:#000080;"><i>    
-    An <span style="color:red;">intelligent web platform</span><span style="color:#000080;"> that transforms a simple component name into a rich set of technical information and documents. This will significantly reduce the time required for analysis, documentation, and validation in the automotive domain.
+    An <span style="color:#000080;">intelligent web platform</span><span style="color:#000080;"> that transforms a simple component name into a rich set of technical information and documents. This will significantly reduce the time required for analysis, documentation, and validation in the automotive domain.
     </i></span></p>
 
 
