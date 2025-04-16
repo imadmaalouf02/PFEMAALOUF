@@ -7,21 +7,31 @@ Technical Pipeline / Project Architecture
         The overall process for implementing the project is structured in the following pipeline:
 
     </i></span></p>
-    
+
+
+Global Project Architecture
+------------------------------------
+
+.. figure:: /Documentation/images/arch.PNG
+   :width: 100%
+   :alt: Alternative text for the image
+   :name: logo
+
+
 1. Data Collection & Preprocessing
 ----------------------------------
 
 .. raw:: html
 
      <p style="text-align: justify;"><span style="color:#000080;"><i>  
-     - Extract data from existing sources such as PDF files, Excel spreadsheets, technical documents, and internal databases.
+      Extract data from existing sources such as PDF files, Excel spreadsheets, technical documents, and internal databases.
    </i></span></p>
     <p style="text-align: justify;"><span style="color:#000080;"><i>  
-     - Clean, structure, and normalize textual data to make it usable by AI models.
+      Clean, structure, and normalize textual data to make it usable by AI models.
    
    </i></span></p>
     <p style="text-align: justify;"><span style="color:#000080;"><i>  
-     - Tools used may include <strong>PyMuPDF</strong>, <strong>Pandas</strong>, <strong>OpenRefine</strong>, etc.
+     Tools used may include <strong>PyMuPDF</strong>, <strong>Pandas</strong>, <strong>OpenRefine</strong>, etc.
 
     </i></span></p>
     
@@ -31,13 +41,13 @@ Technical Pipeline / Project Architecture
 .. raw:: html
 
      <p style="text-align: justify;"><span style="color:#000080;"><i>  
-   - Organize the extracted data into a Knowledge Base.
+   Organize the extracted data into a Knowledge Base.
    </i></span></p>
     <p style="text-align: justify;"><span style="color:#000080;"><i>  
-   - Structure the information by component, requirement, test type, and associated documentation.
+    Structure the information by component, requirement, test type, and associated documentation.
    </i></span></p>
     <p style="text-align: justify;"><span style="color:#000080;"><i>  
-   - Possible technologies include <strong>PostgreSQL</strong>, <strong>MongoDB</strong>, and vector databases like <strong>FAISS</strong> or <strong>Weaviate</strong>.
+    Possible technologies include <strong>PostgreSQL</strong>, <strong>MongoDB</strong>, and vector databases like <strong>FAISS</strong> or <strong>Weaviate</strong>.
     </i></span></p>
     
 3. Benchmarking & Integration of LLM / RAG Models
@@ -47,13 +57,13 @@ Technical Pipeline / Project Architecture
 
      <p style="text-align: justify;"><span style="color:#000080;"><i>  
 
-   - Select and experiment with different language models (LLMs) such as GPT-4, Mistral, LLaMA, etc.
+    Select and experiment with different language models (LLMs) such as GPT-4, Mistral, LLaMA, etc.
    </i></span></p>
     <p style="text-align: justify;"><span style="color:#000080;"><i>  
-   - Integrate a <strong>Retrieval-Augmented Generation (RAG)</strong>architecture that combines knowledge base search with text generation.
+   Integrate a <strong>Retrieval-Augmented Generation (RAG)</strong>architecture that combines knowledge base search with text generation.
    </i></span></p>
     <p style="text-align: justify;"><span style="color:#000080;"><i>  
-   - Evaluate performance, accuracy of responses, and domain adaptation for the automotive context.
+   Evaluate performance, accuracy of responses, and domain adaptation for the automotive context.
     </i></span></p>
     
 4. Automatic Document Generation
@@ -75,10 +85,10 @@ Technical Pipeline / Project Architecture
 
      <p style="text-align: justify;"><span style="color:#000080;"><i>  
 
-    Supported formats: PDF, DOCX, JSON.
+    Supported formats: </span> <span style="color:#008000;">PDF,  </span><span style="color:#008000;">DOCX,  </span><span style="color:#008000;">JSON.
    </i></span></p>
     <p style="text-align: justify;"><span style="color:#000080;"><i> 
-    Integration options: **LangChain**, **LlamaIndex**, or **HuggingFace Transformers**.
+    Integration options: <strong>LangChain</strong>, <strong>LlamaIndex</strong>, or <strong>HuggingFace Transformers</strong>.
    </i></span></p>
 
 5. Development of the Web Platform
@@ -98,7 +108,7 @@ Technical Pipeline / Project Architecture
 .. raw:: html
 
      <p style="text-align: justify;"><span style="color:#000080;"><i>  
-   - Proposed technologies include: **React.js** or **Vue.js** (frontend), **FastAPI** or **Django** (backend), with **Docker** used for deployment.
+   - Proposed technologies include: <strong>React.js</strong> or <strong>Vue.js</strong> (frontend), <strong>FastAPI</strong> or <strong>Django</strong> (backend), with <strong>Docker</strong> used for deployment.
    </i></span></p>
 
 
@@ -172,7 +182,7 @@ Technical Pipeline / Project Architecture
 .. raw:: html
 
     <p style="text-align: justify;"><span style="color:#000080;"><i>    
-    An <span style="color:#0000200;">intelligent web platform</span><span style="color:#000080;"> that transforms a simple component name into a rich set of technical information and documents. This will significantly reduce the time required for analysis, documentation, and validation in the automotive domain.
+    An  <span style="color:#008000;">intelligent web platform</span><span style="color:#000080;"> that transforms a simple component name into a rich set of technical information and documents. This will significantly reduce the time required for analysis, documentation, and validation in the automotive domain.
     </i></span></p>
 
 
@@ -215,11 +225,6 @@ _____________________
     </head>
     <body>
   
-        <p class="expected-outcome">
-            An <strong>intelligent web platform</strong> that transforms a simple component name into a rich set of 
-            technical information and documents. This will significantly reduce the time required for analysis, 
-            documentation, and validation in the automotive domain.
-        </p>
 
         <h2>Technologies & Tools</h2>
         <table>
