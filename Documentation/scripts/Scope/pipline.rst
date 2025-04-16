@@ -9,23 +9,24 @@ Technical Pipeline / Project Architecture
     </i></span></p>
     
 1. Data Collection & Preprocessing
-   ----------------------------------
+----------------------------------
+
 .. raw:: html
 
      <p style="text-align: justify;"><span style="color:#000080;"><i>  
-   - Extract data from existing sources such as PDF files, Excel spreadsheets, technical documents, and internal databases.
+     - Extract data from existing sources such as PDF files, Excel spreadsheets, technical documents, and internal databases.
    </i></span></p>
     <p style="text-align: justify;"><span style="color:#000080;"><i>  
-     <li>- Clean, structure, and normalize textual data to make it usable by AI models.</li>
+     - Clean, structure, and normalize textual data to make it usable by AI models.
    
    </i></span></p>
     <p style="text-align: justify;"><span style="color:#000080;"><i>  
-   - Tools used may include **PyMuPDF**, **Pandas**, **OpenRefine**, etc.
+     - Tools used may include <strong>PyMuPDF</strong>, <strong>Pandas</strong>, <strong>OpenRefine</strong>, etc.
 
     </i></span></p>
     
 2. Knowledge Base Creation
-   --------------------------
+--------------------------
 
 .. raw:: html
 
@@ -36,11 +37,11 @@ Technical Pipeline / Project Architecture
    - Structure the information by component, requirement, test type, and associated documentation.
    </i></span></p>
     <p style="text-align: justify;"><span style="color:#000080;"><i>  
-   - Possible technologies include **PostgreSQL**, **MongoDB**, and vector databases like **FAISS** or **Weaviate**.
+   - Possible technologies include <strong>PostgreSQL</strong>, <strong>MongoDB</strong>, and vector databases like <strong>FAISS</strong> or <strong>Weaviate</strong>.
     </i></span></p>
     
 3. Benchmarking & Integration of LLM / RAG Models
-   -------------------------------------------------
+-------------------------------------------------
 
 .. raw:: html
 
@@ -56,7 +57,7 @@ Technical Pipeline / Project Architecture
     </i></span></p>
     
 4. Automatic Document Generation
-   --------------------------------
+--------------------------------
 
 
 .. raw:: html
@@ -81,7 +82,7 @@ Technical Pipeline / Project Architecture
    </i></span></p>
 
 5. Development of the Web Platform
-   ---------------------------------
+---------------------------------
 
 
 .. raw:: html
@@ -102,13 +103,9 @@ Technical Pipeline / Project Architecture
 
 
 6. Key Application Features
-   --------------------------
+--------------------------
 
-.. raw:: html
-
-   .. raw:: html
-
-         
+.. raw:: html     
     
     <html lang="en">
     <head>
@@ -167,14 +164,15 @@ Technical Pipeline / Project Architecture
 
     </body>
     </html>
+
+
  Expected Outcome
 ----------------------
 
-
-
+.. raw:: html
 
     <p style="text-align: justify;"><span style="color:#000080;"><i>    
-    An <span style="color:#000080;">intelligent web platform</span><span style="color:#000080;"> that transforms a simple component name into a rich set of technical information and documents. This will significantly reduce the time required for analysis, documentation, and validation in the automotive domain.
+    An <span style="color:#0000200;">intelligent web platform</span><span style="color:#000080;"> that transforms a simple component name into a rich set of technical information and documents. This will significantly reduce the time required for analysis, documentation, and validation in the automotive domain.
     </i></span></p>
 
 
