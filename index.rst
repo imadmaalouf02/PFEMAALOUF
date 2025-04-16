@@ -36,7 +36,7 @@ link to github repository:  `link <https://github.com/imadmaalouf02/PFEMAALOUF>`
 
 
 
-.. figure:: /Documentation/images/introo.jpg
+.. figure:: /Documentation/images/int.jpg
    :width: 100%
    :alt: Alternative text for the image
    :name: logo
