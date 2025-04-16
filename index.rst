@@ -3,10 +3,6 @@ Intelligent AI Platform for Automobile Component Management
 =====================================================
 
 
-.. raw:: html
-
-    <p><span style="color:white;">'</p></span>
-
 .. - **Supervisor**: Masrour Tawfik |linkedin_Masrour|
 .. .. |linkedin_Masrour| image:: Documentation/images/LinkedIn_Logo.png
 ..     :width: 16
@@ -22,10 +18,6 @@ Intelligent AI Platform for Automobile Component Management
     :height: 16
     :target: https://www.linkedin.com/in/imad-maalouf-811b25264/
 
-
-.. raw:: html
-
-    <p><span style="color:white;">'</p></span>
 
 
 link to github repository:  `link <https://github.com/imadmaalouf02/PFEMAALOUF>`__ 
