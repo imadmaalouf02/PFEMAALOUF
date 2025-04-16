@@ -2,6 +2,10 @@
 Introduction
 ============
 
+.. figure:: /Documentation/images/IN.jpg
+   :width: 100%
+   :alt: Alternative text for the image
+   :name: logo
 .. raw:: html
 
      <pstyle="text-align: justify;"><span style="color:#000080;"><i>   
