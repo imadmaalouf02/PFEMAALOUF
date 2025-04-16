@@ -24,7 +24,7 @@ link to github repository:  `link <https://github.com/imadmaalouf02/PFEMAALOUF>`
 
 
 
-
+You can view the full presentation by:  `clicking here <https://docs.google.com/presentation/d/179c-zVFqXlB1TWVTBPvPoonVG5rFvTlb/edit?rtpof=true&sd=true>`__ 
 
 
 
