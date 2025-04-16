@@ -19,7 +19,7 @@ Global Project Architecture
 
 
 1. Data Collection & Preprocessing
-----------------------------------
+_________________________________
 
 .. figure:: /Documentation/images/dc.PNG
    :width: 100%
@@ -43,7 +43,7 @@ Global Project Architecture
     </i></span></p>
     
 2. Knowledge Base Creation
---------------------------
+___________________________
 
 
 
@@ -60,7 +60,7 @@ Global Project Architecture
     </i></span></p>
     
 3. Benchmarking & Integration of LLM / RAG Models
--------------------------------------------------
+_______________________________________________
 
 
 .. figure:: /Documentation/images/llm.PNG
@@ -83,7 +83,7 @@ Global Project Architecture
     </i></span></p>
     
 4. Automatic Document Generation
---------------------------------
+__________________________________
 
 .. figure:: /Documentation/images/docgen.PNG
    :width: 100%
@@ -114,7 +114,7 @@ Global Project Architecture
    </i></span></p>
 
 5. Development of the Web Platform
----------------------------------
+__________________________________
 
 
 .. figure:: /Documentation/images/platf.PNG
@@ -148,7 +148,7 @@ Global Project Architecture
     <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Technical Pipeline / Project Architecture</title>
+        
         <style>
             body {
                 font-family: Arial, sans-serif;
@@ -224,7 +224,7 @@ _____________________
     <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Technical Pipeline / Project Architecture</title>
+        
         <style>
             body {
                 font-family: Arial, sans-serif;
@@ -253,8 +253,6 @@ _____________________
     </head>
     <body>
   
-
-        <h2>Technologies & Tools</h2>
         <table>
             <tr>
                 <th>Domain</th>
