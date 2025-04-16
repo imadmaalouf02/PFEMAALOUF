@@ -26,3 +26,14 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']  
 
+# Choix du moteur LaTeX (par exemple 'xelatex' pour une meilleure gestion des encodages)
+latex_engine = 'xelatex'
+
+# Personnalisation des éléments LaTeX (préambule, commandes, etc.)
+latex_elements = {
+    'preamble': r'''
+        \usepackage[utf8]{inputenc}
+        \usepackage[T1]{fontenc}
+        \usepackage{lmodern}
+    ''',
+}
