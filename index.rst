@@ -28,7 +28,7 @@ Retrieval-Augmented Generation (RAG)
     <p><span style="color:white;">'</p></span>
 
 
-link to github repository:  `link <https://github.com/imadmaalouf02/RAG>`__ 
+link to github repository:  `link <https://github.com/imadmaalouf02/PFEMAALOUF>`__ 
 
 
 
@@ -90,7 +90,7 @@ link to github repository:  `link <https://github.com/imadmaalouf02/RAG>`__
     <p><span style="color:white;">'</p></span>
 
 
-link to github repository:  `link <https://github.com/imadmaalouf02/RAG>`__ 
+link to github repository:  `link <https://github.com/imadmaalouf02/PFEMAALOUF>`__ 
 
 .. raw:: html
 
