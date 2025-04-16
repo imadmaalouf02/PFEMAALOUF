@@ -9,7 +9,7 @@ Technical Pipeline / Project Architecture
     </i></span></p>
 
 
-Global Project Architecture
+1. Global Project Architecture
 ---------------------------
 
 .. figure:: /Documentation/images/arch.PNG
@@ -140,7 +140,7 @@ __________________________________
    </i></span></p>
 
 
-6. Key Application Features
+2. Key Application Features
 --------------------------
 
 .. raw:: html     
