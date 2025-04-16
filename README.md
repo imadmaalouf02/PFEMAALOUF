@@ -1,5 +1,5 @@
-# RAG - Retrieval-Augmented Generation Application
-
+# - Intelligent AI Platform for Automobile Component Management
+![Texte alternatif](./Documentation/images/int.jpg)  
 ## Description
 
 
