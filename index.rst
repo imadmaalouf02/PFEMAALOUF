@@ -53,27 +53,27 @@ link to github repository:  `link <https://github.com/imadmaalouf02/PFEMAALOUF>`
    :caption: Introduction
 
    Documentation/scripts/Scope/introduction.rst
-   Documentation/scripts/Scope/pipline.rst
+..    Documentation/scripts/Scope/pipline.rst
 
 .. toctree::
    :maxdepth: 4
    :caption: Implimentation
 
-   Documentation/scripts/Scope/rag.rst
-   Documentation/scripts/Scope/classes.rst
+..    Documentation/scripts/Scope/rag.rst
+..    Documentation/scripts/Scope/classes.rst
 
 .. toctree::
    :maxdepth: 4
    :caption: Installation and Guide 
 
-   Documentation/scripts/Scope/install.rst
+..    Documentation/scripts/Scope/install.rst
 
 
 .. toctree::
    :maxdepth: 4
    :caption: Guide of Application
 
-   Documentation/scripts/Scope/interface.rst
+..    Documentation/scripts/Scope/interface.rst
 
 
 
