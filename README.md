@@ -1,4 +1,4 @@
-# - Intelligent AI Platform for Automobile Component Management
+# Intelligent AI Platform for Automobile Component Management
 ![Texte alternatif](./Documentation/images/int.jpg)  
 ## Description
 
@@ -60,6 +60,6 @@ To install and run the project locally, follow these steps:
 
 For a more in-depth guide on how the application works, as well as an explanation of the code structure, please refer to the official documentation hosted on **ReadTheDocs**.
 
-You can access the documentation [here](https://rag.readthedocs.io/en/latest/index.html#).
+You can access the documentation [here](https://intelligent-ai-platform-for-automobile-component-management.readthedocs.io/en/latest/).
 
 
